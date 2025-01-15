@@ -5,12 +5,13 @@ The PowerShell File Organizer is a simple script designed to automate file organ
 <br />
 
 <h2>Features</h2>
+
 - Extension-Based Organization: Automatically identifies file extensions and organizes files into corresponding folders.
 - Customizable Directory: Allows users to specify the directory to organize, with a default option for the current working directory.
 - Subfolder Support: Includes an option to process subfolders, ensuring comprehensive organization.
 - Dynamic Folder Creation: Automatically creates folders for file types that don’t already exist.
 - Error Handling: Provides informative messages for missing directories or empty folders.
-
+  
 <h2>Setup Instructions</h2>
 
 - Download the Script
