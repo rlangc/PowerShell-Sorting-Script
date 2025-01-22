@@ -37,4 +37,22 @@ The PowerShell File Organizer is a simple script designed to automate file organ
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Launch the utility: <br/>
+<img src="https://imgur.com/fqmR0LR.png" height="80%" width="80%" alt="Sorting Script Steps"/>
+<br />
+<br />
+Wait for sorting process to complete:  <br/>
+<img src="https://imgur.com/jgPJZJp.png" height="80%" width="80%" alt="Sorting Script Steps"/>
+<br />
+<br />
+Sorting complete:  <br/>
+<img src="https://imgur.com/3ZwVd6a.png" height="80%" width="80%" alt="Sorting Script Steps"/>
+<br />
+<br />
+Review the newly sorted files:  <br/>
+<img src="https://imgur.com/hrzqEww.png" height="80%" width="80%" alt="Sorting Script Steps"/>
+</p>
+
+<h2></h2>
+<p align="center">
   <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
